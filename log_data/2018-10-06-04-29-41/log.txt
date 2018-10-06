@@ -1,0 +1,400 @@
+##########   0##########
+Train Loss: 25.829832173013067
+Train Accuracy: 0.43967245989304815
+Test Accuracy: 0.85
+##########   1##########
+Train Loss: 3.6151912205996997
+Train Accuracy: 0.6150210084033614
+Test Accuracy: 0.89
+##########   2##########
+Train Loss: 1.696047270976468
+Train Accuracy: 0.6749904507257448
+Test Accuracy: 0.93
+##########   3##########
+Train Loss: 1.1168814003809069
+Train Accuracy: 0.7366548892284186
+Test Accuracy: 0.95
+##########   4##########
+Train Loss: 0.8615128202826309
+Train Accuracy: 0.7839715431627197
+Test Accuracy: 0.94
+##########   5##########
+Train Loss: 0.6963085761682235
+Train Accuracy: 0.818898013750955
+Test Accuracy: 0.96
+##########   6##########
+Train Loss: 0.5957211530657103
+Train Accuracy: 0.8465909090909091
+Test Accuracy: 0.94
+##########   7##########
+Train Loss: 0.5097687546849661
+Train Accuracy: 0.8659520626432391
+Test Accuracy: 0.96
+##########   8##########
+Train Loss: 0.44567517521012096
+Train Accuracy: 0.8835227272727273
+Test Accuracy: 0.96
+##########   9##########
+Train Loss: 0.40823397079498325
+Train Accuracy: 0.8938359434682964
+Test Accuracy: 0.98
+##########  10##########
+Train Loss: 0.3645082777913879
+Train Accuracy: 0.9050802139037433
+Test Accuracy: 0.97
+##########  11##########
+Train Loss: 0.33543860388569663
+Train Accuracy: 0.9116453399541635
+Test Accuracy: 0.97
+##########  12##########
+Train Loss: 0.3187007028879875
+Train Accuracy: 0.9182104660045837
+Test Accuracy: 0.97
+##########  13##########
+Train Loss: 0.2917314814382309
+Train Accuracy: 0.9243697478991597
+Test Accuracy: 0.98
+##########  14##########
+Train Loss: 0.267442779878323
+Train Accuracy: 0.9288579067990833
+Test Accuracy: 0.98
+##########  15##########
+Train Loss: 0.24866605125014749
+Train Accuracy: 0.9326059969442322
+Test Accuracy: 0.98
+##########  16##########
+Train Loss: 0.2385590840444094
+Train Accuracy: 0.9372612681436211
+Test Accuracy: 0.99
+##########  17##########
+Train Loss: 0.23095272534357553
+Train Accuracy: 0.9389801375095492
+Test Accuracy: 1.0
+##########  18##########
+Train Loss: 0.2198793036479722
+Train Accuracy: 0.9430147058823529
+Test Accuracy: 0.98
+##########  19##########
+Train Loss: 0.2063732960930548
+Train Accuracy: 0.9455213903743316
+Test Accuracy: 0.98
+##########  20##########
+Train Loss: 0.19418386014036457
+Train Accuracy: 0.946738922841864
+Test Accuracy: 0.99
+##########  21##########
+Train Loss: 0.1872987976918766
+Train Accuracy: 0.9502960275019099
+Test Accuracy: 0.99
+##########  22##########
+Train Loss: 0.17465871348530637
+Train Accuracy: 0.9525162337662337
+Test Accuracy: 0.98
+##########  23##########
+Train Loss: 0.17090026700653627
+Train Accuracy: 0.9541157372039725
+Test Accuracy: 0.99
+##########  24##########
+Train Loss: 0.17176067039046458
+Train Accuracy: 0.9542112299465241
+Test Accuracy: 0.99
+##########  25##########
+Train Loss: 0.1603530022952608
+Train Accuracy: 0.9565985485103132
+Test Accuracy: 0.98
+##########  26##########
+Train Loss: 0.15645382584003636
+Train Accuracy: 0.9573624904507257
+Test Accuracy: 0.98
+##########  27##########
+Train Loss: 0.1529838262579238
+Train Accuracy: 0.9583890374331551
+Test Accuracy: 0.98
+##########  28##########
+Train Loss: 0.15437364053203073
+Train Accuracy: 0.9597020626432391
+Test Accuracy: 0.98
+##########  29##########
+Train Loss: 0.14408332751569006
+Train Accuracy: 0.9615641711229946
+Test Accuracy: 0.98
+##########  30##########
+Train Loss: 0.14243815816438887
+Train Accuracy: 0.9627339572192514
+Test Accuracy: 0.99
+##########  31##########
+Train Loss: 0.13180867433339644
+Train Accuracy: 0.9634978991596639
+Test Accuracy: 0.98
+##########  32##########
+Train Loss: 0.13293588873907597
+Train Accuracy: 0.9650735294117647
+Test Accuracy: 0.98
+##########  33##########
+Train Loss: 0.13190967372005055
+Train Accuracy: 0.9664104278074866
+Test Accuracy: 0.98
+##########  34##########
+Train Loss: 0.13060289035645786
+Train Accuracy: 0.9644766997708174
+Test Accuracy: 0.98
+##########  35##########
+Train Loss: 0.1256629594703432
+Train Accuracy: 0.9666969060351414
+Test Accuracy: 0.98
+##########  36##########
+Train Loss: 0.12136811326975408
+Train Accuracy: 0.9678428189457601
+Test Accuracy: 0.98
+##########  37##########
+Train Loss: 0.11769152544334674
+Train Accuracy: 0.9686545072574484
+Test Accuracy: 0.99
+##########  38##########
+Train Loss: 0.11089718570060676
+Train Accuracy: 0.9694661955691367
+Test Accuracy: 0.98
+##########  39##########
+Train Loss: 0.10821711945262466
+Train Accuracy: 0.9710895721925134
+Test Accuracy: 0.99
+##########  40##########
+Train Loss: 0.11777511293417507
+Train Accuracy: 0.9698242933537051
+Test Accuracy: 0.98
+##########  41##########
+Train Loss: 0.11629971410518147
+Train Accuracy: 0.9698959129106188
+Test Accuracy: 0.99
+##########  42##########
+Train Loss: 0.10886022350380452
+Train Accuracy: 0.9714715431627197
+Test Accuracy: 0.98
+##########  43##########
+Train Loss: 0.10400047082069336
+Train Accuracy: 0.9729039343009931
+Test Accuracy: 0.98
+##########  44##########
+Train Loss: 0.10209550250590009
+Train Accuracy: 0.973381398013751
+Test Accuracy: 0.99
+##########  45##########
+Train Loss: 0.09885978311242093
+Train Accuracy: 0.9729516806722689
+Test Accuracy: 0.99
+##########  46##########
+Train Loss: 0.09731796717060456
+Train Accuracy: 0.9731904125286478
+Test Accuracy: 0.98
+##########  47##########
+Train Loss: 0.09602219491102619
+Train Accuracy: 0.9735007639419404
+Test Accuracy: 0.98
+##########  48##########
+Train Loss: 0.0947899440890424
+Train Accuracy: 0.9749809014514896
+Test Accuracy: 0.98
+##########  49##########
+Train Loss: 0.095163698072988
+Train Accuracy: 0.9744318181818182
+Test Accuracy: 0.98
+##########  50##########
+Train Loss: 0.0960097628394092
+Train Accuracy: 0.9747182964094728
+Test Accuracy: 0.98
+##########  51##########
+Train Loss: 0.09009912650025804
+Train Accuracy: 0.976031321619557
+Test Accuracy: 0.98
+##########  52##########
+Train Loss: 0.09412545700725516
+Train Accuracy: 0.9765565317035906
+Test Accuracy: 0.98
+##########  53##########
+Train Loss: 0.08732049547890573
+Train Accuracy: 0.9770339954163484
+Test Accuracy: 0.98
+##########  54##########
+Train Loss: 0.08397666812628768
+Train Accuracy: 0.9776546982429335
+Test Accuracy: 0.99
+##########  55##########
+Train Loss: 0.08551286566991748
+Train Accuracy: 0.9773682200152788
+Test Accuracy: 0.98
+##########  56##########
+Train Loss: 0.08796249680237885
+Train Accuracy: 0.9775353323147441
+Test Accuracy: 0.98
+##########  57##########
+Train Loss: 0.07990515929481995
+Train Accuracy: 0.9779650496562261
+Test Accuracy: 0.99
+##########  58##########
+Train Loss: 0.0847374043493493
+Train Accuracy: 0.977105614973262
+Test Accuracy: 0.99
+##########  59##########
+Train Loss: 0.08046143985635028
+Train Accuracy: 0.979087089381207
+Test Accuracy: 0.99
+##########  60##########
+Train Loss: 0.08588010529396703
+Train Accuracy: 0.9782992742551566
+Test Accuracy: 0.98
+##########  61##########
+Train Loss: 0.07607820297486968
+Train Accuracy: 0.9805433537051184
+Test Accuracy: 0.99
+##########  62##########
+Train Loss: 0.0770703278295624
+Train Accuracy: 0.98063884644767
+Test Accuracy: 0.99
+##########  63##########
+Train Loss: 0.07784560532872425
+Train Accuracy: 0.9782754010695187
+Test Accuracy: 0.98
+##########  64##########
+Train Loss: 0.07777330717734161
+Train Accuracy: 0.9802568754774638
+Test Accuracy: 0.99
+##########  65##########
+Train Loss: 0.07931972034648939
+Train Accuracy: 0.9812834224598931
+Test Accuracy: 0.99
+##########  66##########
+Train Loss: 0.06989025618478814
+Train Accuracy: 0.9811640565317036
+Test Accuracy: 0.99
+##########  67##########
+Train Loss: 0.07597730349779887
+Train Accuracy: 0.9801852559205501
+Test Accuracy: 1.0
+##########  68##########
+Train Loss: 0.07204086182618531
+Train Accuracy: 0.980209129106188
+Test Accuracy: 0.98
+##########  69##########
+Train Loss: 0.07627661038332618
+Train Accuracy: 0.9807820855614974
+Test Accuracy: 0.99
+##########  70##########
+Train Loss: 0.07061857650710064
+Train Accuracy: 0.9807582123758595
+Test Accuracy: 0.98
+##########  71##########
+Train Loss: 0.07302322941581921
+Train Accuracy: 0.9817847593582888
+Test Accuracy: 0.98
+##########  72##########
+Train Loss: 0.07059305498107293
+Train Accuracy: 0.9811640565317036
+Test Accuracy: 0.98
+##########  73##########
+Train Loss: 0.06694807885459826
+Train Accuracy: 0.9822144766997708
+Test Accuracy: 0.98
+##########  74##########
+Train Loss: 0.06810688265343759
+Train Accuracy: 0.9829784186401833
+Test Accuracy: 0.98
+##########  75##########
+Train Loss: 0.06975688980339953
+Train Accuracy: 0.9821189839572193
+Test Accuracy: 0.98
+##########  76##########
+Train Loss: 0.07049248472655978
+Train Accuracy: 0.981737012987013
+Test Accuracy: 0.97
+##########  77##########
+Train Loss: 0.0687660973218546
+Train Accuracy: 0.9820712375859435
+Test Accuracy: 0.98
+##########  78##########
+Train Loss: 0.0645103524403539
+Train Accuracy: 0.9825487012987013
+Test Accuracy: 0.98
+##########  79##########
+Train Loss: 0.06367569158388657
+Train Accuracy: 0.9826919404125286
+Test Accuracy: 0.99
+##########  80##########
+Train Loss: 0.06487215380619255
+Train Accuracy: 0.9833842627960275
+Test Accuracy: 0.99
+##########  81##########
+Train Loss: 0.06568057660806959
+Train Accuracy: 0.9839094728800611
+Test Accuracy: 0.99
+##########  82##########
+Train Loss: 0.066116239896669
+Train Accuracy: 0.9832887700534759
+Test Accuracy: 1.0
+##########  83##########
+Train Loss: 0.05965856446384648
+Train Accuracy: 0.9825964476699771
+Test Accuracy: 0.98
+##########  84##########
+Train Loss: 0.06643057390693087
+Train Accuracy: 0.9842198242933538
+Test Accuracy: 0.98
+##########  85##########
+Train Loss: 0.06380194101286604
+Train Accuracy: 0.9828590527119939
+Test Accuracy: 0.99
+##########  86##########
+Train Loss: 0.061054742577942994
+Train Accuracy: 0.9841959511077158
+Test Accuracy: 0.98
+##########  87##########
+Train Loss: 0.06541294356462564
+Train Accuracy: 0.9840765851795263
+Test Accuracy: 0.98
+##########  88##########
+Train Loss: 0.05566001338420701
+Train Accuracy: 0.9848882734912147
+Test Accuracy: 0.99
+##########  89##########
+Train Loss: 0.05758037362279495
+Train Accuracy: 0.984577922077922
+Test Accuracy: 0.99
+##########  90##########
+Train Loss: 0.06365200014055541
+Train Accuracy: 0.9846495416348358
+Test Accuracy: 0.98
+##########  91##########
+Train Loss: 0.058262758806044465
+Train Accuracy: 0.985485103132162
+Test Accuracy: 0.99
+##########  92##########
+Train Loss: 0.06025681145100953
+Train Accuracy: 0.9851747517188694
+Test Accuracy: 0.98
+##########  93##########
+Train Loss: 0.05721260778110775
+Train Accuracy: 0.9840288388082505
+Test Accuracy: 0.98
+##########  94##########
+Train Loss: 0.058631141369187005
+Train Accuracy: 0.9857715813598167
+Test Accuracy: 0.99
+##########  95##########
+Train Loss: 0.05557916807275547
+Train Accuracy: 0.9854612299465241
+Test Accuracy: 0.98
+##########  96##########
+Train Loss: 0.060150257025319315
+Train Accuracy: 0.9850076394194042
+Test Accuracy: 0.98
+##########  97##########
+Train Loss: 0.057568355108620704
+Train Accuracy: 0.9853896103896104
+Test Accuracy: 0.98
+##########  98##########
+Train Loss: 0.055724568426009424
+Train Accuracy: 0.9851508785332315
+Test Accuracy: 0.98
+##########  99##########
+Train Loss: 0.05478339168684865
+Train Accuracy: 0.9853896103896104
+Test Accuracy: 1.0
